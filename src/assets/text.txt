@@ -1,0 +1,34 @@
+ let products = [
+        {
+            title:"Classic Shirts",
+            image:"https://www.snitch.co.in/cdn/shop/products/Augusto_23rdFeb1102_1800x1800.jpg?v=1680671959"
+        },
+        {
+            title:"Classic Shirts",
+            image:"https://cdn.shopify.com/s/files/1/0420/7073/7058/products/4MSS1873-06-M6551_800x.jpg?v=1681735573?v=43215488549026"
+        },
+        {
+            title:"Cuban Collar Shirt",
+            image:"https://www.snitch.co.in/cdn/shop/files/4MSS2150-01-M30_1800x1800.jpg?v=1690737926"
+        },
+        {
+            title:"T-shirt",
+            image:"https://www.snitch.co.in/cdn/shop/products/Snitch_23Oct21_2043_1800x1800.jpg?v=1635945426"
+        },
+        {
+            title:"Polo Shirt",
+            image:"https://www.snitch.co.in/cdn/shop/files/4MSS2191-02-M93_1800x1800.jpg?v=1691215374"
+        },
+        {
+            title:"Cuban Collar Shirt",
+            image:"https://www.snitch.co.in/cdn/shop/files/4MSS2149-05-M29_1800x1800.jpg?v=1690550733"
+        },
+        {
+            title:"Office Shirt",
+            image:"https://www.snitch.co.in/cdn/shop/products/Snitch_April22_0035_51c54da9-4905-4e32-9854-2dcdb6c842d4_1800x1800.jpg?v=1651226209"
+        },{
+            title:"Classic Short Sleeve T-Shirt",
+            image:"https://www.snitch.co.in/cdn/shop/products/Snitch_9thNov21_5014_1800x1800.jpg?v=1637672523"
+        }
+     ]
+        
